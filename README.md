@@ -1,5 +1,5 @@
 # 3D Printed Combination Puzzle Box
-
+![Final Box](images/Final_Box.png)
 A custom-designed 3D-printable puzzle box featuring a rotating combination wheel, a locking pin mechanism, and a hidden main drawer. 
 
 ---
